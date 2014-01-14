@@ -10,9 +10,9 @@ and at the behest of [Jeremy Keith](http://adactio.com/journal/6246/)
 ##Installation
 1. Download the [crx file](https://github.com/funzeye/Web-Thang/blob/master/WebThang.crx?raw=true)
 
-2. In Chrome, type go to chrome://extensions/ in the address bar
+2. In Chrome, type in chrome://extensions/ in the address bar or go to Settings->Extensions
 
-3. Drag the downloaded Web-Thang.crx file onto the browser window and confirm installation.
+3. Drag the downloaded Web-Thang.crx file onto the browser window and confirm the installation.
 
 4. Now try reading [this article](http://adactio.com/journal/6246/)! In fact just try reading the first sentence of this readme file!!
 
