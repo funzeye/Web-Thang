@@ -1,0 +1,14 @@
+{
+        "manifest_version": 2,
+        "name": "Web Thang",
+        "version": "1.0",
+        "description": "Replaces the text 'web app' and 'website' with 'web thang'.",
+        "content_scripts":
+        [
+                {
+                        "matches": ["*://*/*"],
+                        "js": ["content_script.js"],
+                        "run_at": "document_end"
+                }
+        ]
+}
