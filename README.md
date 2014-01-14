@@ -1,7 +1,7 @@
 Web-Thang
 =========
 
-Web-Thang is a chrome extension that replaces all instances of the term 'web thang' or 'web thang/web thang' with the term 'web thang'.
+Web-Thang is a chrome extension that replaces all instances of the term 'web app' or 'website/web site' with the term 'web thang'.
 
 Based heavily on this [cloud-to-butt extension](https://github.com/panicsteve/cloud-to-butt)
 and at the behest of [Jeremy Keith](http://adactio.com/journal/6246/)
