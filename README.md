@@ -8,7 +8,7 @@ and at the behest of [Jeremy Keith](http://adactio.com/journal/6246/)
 
 
 ##Installation
-1. Download the [crx file](https://github.com/funzeye/Web-Thang/blob/master/Source.crx?raw=true)
+1. Download the [crx file](https://github.com/funzeye/Web-Thang/blob/master/Web-Thang.crx?raw=true)
 
 2. In Chrome, type go to chrome://extensions/ in the address bar
 
